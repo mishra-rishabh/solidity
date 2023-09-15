@@ -1,0 +1,1 @@
+SPDX: Software Package Data Exchnage. It tells, who can actually use this piece of code. Is this code open source i.e., public or it is only for me. 
