@@ -13,3 +13,7 @@ syntax: function someFunction(uint _num) public view returns(uint) { ... }
 3. access modifier
 4. view tells that function will only read the state variable but won't alter it
 5. type of value that function is going to return
+
+view function: it tells that function will only read the state variable but won't alter it
+pure function: it tells that function will neither read the state variable nor alter it
+transaction function: here we don't use view and pure, so that compiler can understand that this function can change the state variables
