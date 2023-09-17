@@ -2,7 +2,7 @@ Operators:
 1. == equal to
 2. <= less than equal to
 3. < less than
-4. >= greater than equal to
+4. \>= greater than equal to
 5. > greater than
 6. != not equal to
 
