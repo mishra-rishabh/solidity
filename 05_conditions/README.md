@@ -3,7 +3,7 @@ Operators:
 2. <= less than equal to
 3. < less than
 4. \>= greater than equal to
-5. > greater than
+5. \> greater than
 6. != not equal to
 
 Logical Operators:
