@@ -15,4 +15,10 @@ contract ErrorHandling {
 
         return _i;
     }
+
+    function testAssert(uint _i) public pure returns (uint) {
+        assert(_i >= 18);
+
+        return _i;
+    }
 }
