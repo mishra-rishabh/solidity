@@ -5,6 +5,7 @@ There are two types of units in Solidity: <br/>
 * Ether units are used to represent value, such as the amount of money being transferred between accounts or the cost of a transaction. 
 * Ether, like many other cryptocurrencies, can be divided into smaller units of value. 
 * The smallest unit of ether is called a wei, and there are 1,000,000,000,000,000,000 (1 quintillion) Wei in one ether.
+
 | Unit | Wei Value | Wei |
 |---|---|---|
 | wei | 1 | 1 |
