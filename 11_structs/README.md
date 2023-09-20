@@ -18,8 +18,10 @@ struct struct_name {
 ```
 
 example: <br/>
+```
 struct Book { 
    string title;
    string author;
    uint book_id;
 }
+```
