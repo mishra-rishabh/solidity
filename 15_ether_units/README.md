@@ -19,11 +19,11 @@ There are two types of units in Solidity: <br/>
 2. Time Units:
 * Time units, on the other hand, are used to measure the duration of certain events in the blockchain, such as the amount of time that must pass before a certain action is allowed to occur. 
 * Solidity provides several time units that can be used in your code, including:
-*   seconds (s)
-*   minutes (min)
-*   hours (h)
-*   days (days)
-*   weeks (weeks)
+1. seconds (s)
+2. minutes (min)
+3. hours (h)
+4. days (days)
+5. weeks (weeks)
 
 
 
