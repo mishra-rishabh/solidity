@@ -9,11 +9,13 @@ Book ID <br/>
 Structs can be declared outside of a contract and can be imported in another contract
 
 syntax: <br/>
+```
 struct struct_name { 
    type1 type_name_1;
    type2 type_name_2;
    type3 type_name_3;
 }
+```
 
 example: <br/>
 struct Book { 
