@@ -14,13 +14,13 @@ receive() is called if msg.data is empty, otherwise fallback() is called.
 
 Which function is called, fallback() or receive() ?
 
-            send Ether
-               |
-         msg.data is empty?
-              / \
-            yes  no
-            /     \
-receive() exists?  fallback()
+                send Ether
+                    |
+            msg.data is empty?
+                   / \
+                yes  no
+                /     \
+    receive() exists?  fallback()
          /   \
         yes   no
         /      \
