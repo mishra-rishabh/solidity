@@ -6,8 +6,6 @@ contract OptimizedContract {
 
     // example array: [1, 2, 3, 4, 5, 100]
 
-    
-
     function sumIfEvenAndLessThan99(uint[] calldata numsArr) external {
         uint tempTotal;
         uint arrLength = numsArr.length;
